@@ -6,7 +6,7 @@ class PyscriptEngine
 
     public function execute(script:String):Dynamic
     {
-        return 0;
+        return 1;
     }
 
     // Interact with a native Haxe object
