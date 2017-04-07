@@ -1,0 +1,13 @@
+{
+    "name": "pyscript",
+    "version": "0.1.0",
+    "releasenote": "Initial release",
+
+    "url": "https://github.com/ashes999/pyscript",
+    "description": "Run Python3 code from your Haxe apps.",
+    "tags": ["cross", "extension", "utility"],
+    "license": "MIT",    
+    "classPath": "src",
+    "contributors": ["ashes999"],
+    "dependencies": { }
+}
